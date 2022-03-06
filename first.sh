@@ -1,3 +1,4 @@
 date
 cal
-echo how ru 
+echo how r u
+Hello sir
