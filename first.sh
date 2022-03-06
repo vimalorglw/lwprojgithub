@@ -1,4 +1,4 @@
 date
 cal
 echo how ru 
-echo "excited for quantam computing"
+echo "excited for quantam computing!"
