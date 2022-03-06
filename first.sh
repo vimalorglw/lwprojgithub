@@ -1,3 +1,3 @@
 date
 cal
-echo how ru 
+echo how are you
