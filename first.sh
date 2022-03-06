@@ -1,3 +1,4 @@
-echo $(date)
-echo $(cal)
+date
+cal
 echo how ru 
+add new line
