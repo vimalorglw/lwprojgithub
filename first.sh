@@ -1,4 +1,4 @@
 # Here is the comment messages
-date
-cal
+echo $(date)
+echo $(cal)
 echo how ru 
