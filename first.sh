@@ -1,7 +1,3 @@
-date
-cal
-echo how ru
-hello vimal sir
 
 👋 Hi, I’m @devparth19
 👀 I’m interested in sovling error
