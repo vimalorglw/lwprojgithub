@@ -1,3 +1,3 @@
 date
 cal
-echo how ru 
+echo "Awesome Training sir, Thank you!"
