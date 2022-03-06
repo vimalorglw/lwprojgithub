@@ -1,4 +1,4 @@
 date
 cal
 echo how ru 
-echo  hello sir
+echo  hello sir! Great Explanation
