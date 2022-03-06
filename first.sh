@@ -1,4 +1,6 @@
-date
+hello
+diff
+tree
 cal
 echo how ru 
 asodg
